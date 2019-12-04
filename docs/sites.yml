@@ -8816,18 +8816,15 @@
   built_by: Amrish Kushwaha
   built_by_url: https://github.com/isamrish
   featured: false
-- title: Jarod Peachey
-  main_url: https://jarodpeachey.netlify.com
-  url: https://jarodpeachey.netlify.com
-  # optional: for open-source sites, this URL points to the repo that powers the site
-  source_url: https://github.com/jarodpeachey/portfolio-website
-  description: >
-    Jarod Peachey is a front-end developer focused on building modern and fast websites for everyone.
+  Copydocs/sites.yml: copy code to clipboard
+- title: Antonin Nhek Portfolio
+  url: https://anhek.dev
+  main_url: https://anhek.dev
+  source_url: http://github.com/anhek/anhek-portfolio
+  description: It's my personal portfolio which showcase my work as a Visual Designer & Front-End Developer. It's built with Gatsby v2 and Tailwind CSS.
   categories:
-    - Blog
-    - JavaScript
-    - Mobile Development
     - Portfolio
-  built_by: Jarod Peachey
-  built_by_url: https://github.com/jarodpeachey
+    - Web Development
+  built_by: Antonin Nhek
+  built_by_url: https://anhek.dev
   featured: false
